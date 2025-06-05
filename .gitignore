@@ -1,0 +1,25 @@
+# Data files
+drw-crypto-market-prediction/
+*.csv
+*.parquet
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environment
+.env
+.venv
+env/
+venv/
+
+# Model files
+*.pkl
+*.joblib
+
+# Misc
+.DS_Store
