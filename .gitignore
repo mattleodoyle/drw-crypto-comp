@@ -1,6 +1,5 @@
 # Data files
 drw-crypto-market-prediction/
-*.csv
 *.parquet
 
 # Python artifacts
