@@ -24,3 +24,25 @@ This repository contains exploratory data analysis and machine learning models f
 ## Usage
 
 The main analysis is contained in `testbed.ipynb`.
+
+
+
+
+
+DRAFT:
+
+Possible Model Paths:
+
+- Generous Feature Selection
+- Neural Network (Choose arch)
+- Using Bayesian Optimization (with GP) for Hyper-params. Setting Prior based on basic grid search
+- Then Train Final Model with all available training data
+
+OR
+
+- Straight up GP could be good
+
+OR
+
+- Same as first
+- Instead build BNN using Hiearchical learning to control dead nuerons.
