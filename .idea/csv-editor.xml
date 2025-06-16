@@ -10,14 +10,7 @@
             </Attribute>
           </value>
         </entry>
-        <entry key="/MI_Scores.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/Desktop/btc_prices.csv">
+        <entry key="/btc_prices.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
@@ -25,13 +18,6 @@
           </value>
         </entry>
         <entry key="/drw-crypto-market-prediction/sample_submission.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="/dumpDataPreview">
           <value>
             <Attribute>
               <option name="separator" value="," />
